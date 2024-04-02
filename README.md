@@ -1,10 +1,2 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Projeto do módulo Eletiva Python.
+Implementação de uma aplicação utilizando MongoDB e Flask, incluindo a criação de conexão com o banco de dados, definição de modelos para os dados, desenvolvimento de controladores para manipular as requisições e respostas da aplicação, criação de endpoints para interagir com o frontend, e a escrita de testes para garantir o funcionamento correto das funcionalidades.
